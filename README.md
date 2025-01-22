@@ -9,7 +9,9 @@ Este proyecto te permite gestionar una lista de amigos, agregar nuevos amigos, v
 ## Estructura de Archivos del Proyecto:
 
 ├── index.html        # Estructura básica de la página
+
 ├── styles.css        # Estilos visuales del proyecto
+
 └── script.js         # Lógica en JavaScript
 
 ## Uso
